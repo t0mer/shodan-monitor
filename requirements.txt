@@ -1,0 +1,5 @@
+schedule
+apprise
+loguru
+whatsapp-api-client-python
+shodan
